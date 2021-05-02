@@ -1,5 +1,16 @@
 # VCP: Voltage-controlled panner
 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 The VCP is a panning module that will take a mono input and split it to a pair of channels, hereafter referred to as 'left' and 'right'. The left/right mix can be controlled either by hand, using the CV pot on the front panel, or via a voltage source in which case the CV pot acts like an attenuator for the incoming signal.
 
 It has other uses too - by only using the right output (R), the module can be made to behave like a somewhat crude, but rather effective, VCA.
